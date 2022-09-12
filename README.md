@@ -1,4 +1,4 @@
-### Hi there 👋
+### Who am I? 👀
 
 <!--
 **yoosng/yoosng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me
+My name is Won Yoo-seung and I am 21 years old and I entered Gachon University in 22nd grade in software.
